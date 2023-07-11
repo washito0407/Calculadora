@@ -4,7 +4,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.TextEvent;
 
 public class calculadora {
-        private JPanel Calculadora;
+    private JPanel Calculadora;
     private JTextField textoconsola;
     private JButton ACButton;
     private JButton button2;
